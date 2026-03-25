@@ -23,7 +23,9 @@ Currently, I work with hardware infrastructure and telemetry at Selbetti (assign
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-mota/)
 
+---
 
+```text
       _    _   _   ___  _   _ ___ _____ 
      / \  | \ | |/ _ \| \ | |_ _|_   _|
     / _ \ |  \| | | | |  \| || |  | |  
@@ -34,3 +36,4 @@ Currently, I work with hardware infrastructure and telemetry at Selbetti (assign
        \_\(_)/_/
         _//o\\_
          /   \
+```
