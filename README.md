@@ -1,16 +1,37 @@
-## Hi there 👋
+```text
+      _    _   _   ___  _   _ ___ _____ 
+     / \  | \ | |/ _ \| \ | |_ _|_   _|
+    / _ \ |  \| | | | |  \| || |  | |  
+   / ___ \| |\  | |_| | |\  || |  | |  
+  /_/   \_\_| \_|\___/|_| \_|___| |_|  
+ 
+         / _ \
+       \_\(_)/_/
+        _//o\\_
+         /   \
+```
 
-<!--
-**Adriel-M0ta/Adriel-M0ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Adriel, a Computer Science student and Software/Data Builder. I specialize in turning chaotic operational data into intelligent, automated solutions. 
 
-Here are some ideas to get you started:
+Currently, I work with hardware infrastructure and telemetry at Selbetti (assigned to Mercado Livre), where I focus on backend logic, IoT monitoring, and data engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ What I'm up to:
+* 🏢 **Working on:** Scaling infrastructure and monitoring systems to reduce downtime.
+* 🚀 **Building:** * **Quíron:** An AI-powered SaaS to help users prepare for job interviews.
+  * **Athena:** A personal finance assistant SaaS.
+  * **PhyloMotion:** A micro-SaaS for biology education with automated animations.
+* 🎲 **Off-screen:** When I'm not coding, you can find me working out (calisthenics), developing PS1-style indie horror games in Unity, or acting as a Game Master in tabletop RPGs (Call of Cthulhu / Ordem Paranormal).
+
+### 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=google-cloud)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![Firestore](https://img.shields.io/badge/-Firestore-05122A?style=flat&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+### 📌 Featured Work
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Adriel-M0ta&repo=hermes-control-architecture&theme=radical)](https://github.com/Adriel-M0ta/hermes-control-architecture)
+
+### 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-mota/)
