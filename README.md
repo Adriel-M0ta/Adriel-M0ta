@@ -1,16 +1,3 @@
-```text
-      _    _   _   ___  _   _ ___ _____ 
-     / \  | \ | |/ _ \| \ | |_ _|_   _|
-    / _ \ |  \| | | | |  \| || |  | |  
-   / ___ \| |\  | |_| | |\  || |  | |  
-  /_/   \_\_| \_|\___/|_| \_|___| |_|  
- 
-         / _ \
-       \_\(_)/_/
-        _//o\\_
-         /   \
-```
-
 Hi there! 👋 I'm Adriel, a Computer Science student and Software/Data Builder. I specialize in turning chaotic operational data into intelligent, automated solutions. 
 
 Currently, I work with hardware infrastructure and telemetry at Selbetti (assigned to Mercado Livre), where I focus on backend logic, IoT monitoring, and data engineering.
@@ -35,3 +22,15 @@ Currently, I work with hardware infrastructure and telemetry at Selbetti (assign
 
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriel-mota/)
+
+
+      _    _   _   ___  _   _ ___ _____ 
+     / \  | \ | |/ _ \| \ | |_ _|_   _|
+    / _ \ |  \| | | | |  \| || |  | |  
+   / ___ \| |\  | |_| | |\  || |  | |  
+  /_/   \_\_| \_|\___/|_| \_|___| |_|  
+ 
+         / _ \
+       \_\(_)/_/
+        _//o\\_
+         /   \
