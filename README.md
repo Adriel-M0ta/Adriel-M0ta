@@ -8,7 +8,7 @@ Currently, I work with hardware infrastructure and telemetry at Selbetti (assign
   * **Athena:** A personal finance assistant SaaS.
   * **PhyloMotion:** A micro-SaaS for biology education with automated animations.
 * 💡 **Product Mindset:** Beyond coding, I have experience creating and monetizing digital products. I enjoy building systems end-to-end, always focusing on real business value and user experience.
-* 🎲 **Off-screen:** When I'm not coding, I'm acting as a Game Master in tabletop RPGs (Call of Cthulhu / Ordem Paranormal / D&D), immersed in factory and management games like **Satisfactory** (I *love* it!), watching my favorite sci-fi movies like **Dune** and the **Alien saga**, or spending quality time with my girlfriend and dogs.
+* 🎲 **Off-screen:** When I'm not coding, I'm acting as a Game Master in tabletop RPGs (Call of Cthulhu / Ordem Paranormal / D&D), immersed in factory and management games like **Satisfactory** (I *love* it!), watching my favorite sci-fi movies like **Dune** and the **Alien saga**, or spending quality time with my girlfriend.
 * 🌍 **Languages:** Portuguese (Native) | English (Basic / Learning).
 
 ### 🛠️ Tech Stack:
