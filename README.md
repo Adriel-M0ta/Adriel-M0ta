@@ -91,9 +91,11 @@ No dia a dia, uso agentes de código (Claude Code) com memória de projeto e um 
 
 ## 🎲 Fora do código
 
-- Mestre de RPG de mesa: Call of Cthulhu, Ordem Paranormal e D&D.
+- Mestre de RPG de mesa.
+- Viciado em jogos de fábrica, principalmente **Satisfactory**.
 - Fã de ficção científica: **Duna** e a saga **Alien**.
-- Português nativo · inglês básico.
+- Bicho favorito: **aranha**. Por isso ela assina aqui embaixo. 🕷️
+- Português nativo · inglês básico (estudando).
 
 ---
 
